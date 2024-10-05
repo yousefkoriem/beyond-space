@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171102525102",
+    "project_id": "nasa-8740f",
+    "storage_bucket": "nasa-8740f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171102525102:android:881f37da6c3f0b51daff3f",
+        "android_client_info": {
+          "package_name": "com.beyondspace.nasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPjmOUdHPTTJTdWVVTE75T6shjy-rGtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

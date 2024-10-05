@@ -1,0 +1,32 @@
+// Export pages
+export '/pages/home_page/home_page_widget.dart' show HomePageWidget;
+export '/end_level/end_level_widget.dart' show EndLevelWidget;
+export '/home/home_widget.dart' show HomeWidget;
+export '/quiz/quiz_widget.dart' show QuizWidget;
+export '/levels/levels_widget.dart' show LevelsWidget;
+export '/l1_q/level10/level10_widget.dart' show Level10Widget;
+export '/education/main/main_widget.dart' show MainWidget;
+export '/education/ed_page/ed_page_widget.dart' show EdPageWidget;
+export '/pages/score/score_widget.dart' show ScoreWidget;
+export '/pages/resources/resources_widget.dart' show ResourcesWidget;
+export '/maps/map3/map3_widget.dart' show Map3Widget;
+export '/maps/map1/map1_widget.dart' show Map1Widget;
+export '/maps/map2/map2_widget.dart' show Map2Widget;
+export '/maps/map4/map4_widget.dart' show Map4Widget;
+export '/education/super_earth/super_earth_widget.dart' show SuperEarthWidget;
+export '/education/tresstial/tresstial_widget.dart' show TresstialWidget;
+export '/education/neptunian/neptunian_widget.dart' show NeptunianWidget;
+export '/education/giant_gas/giant_gas_widget.dart' show GiantGasWidget;
+export '/education/discovery/discovery_widget.dart' show DiscoveryWidget;
+export '/education/classification/classification_widget.dart'
+    show ClassificationWidget;
+export '/education/method/method_widget.dart' show MethodWidget;
+export '/l1_q/level01/level01_widget.dart' show Level01Widget;
+export '/l1_q/level02/level02_widget.dart' show Level02Widget;
+export '/l1_q/level03/level03_widget.dart' show Level03Widget;
+export '/l1_q/level05/level05_widget.dart' show Level05Widget;
+export '/l1_q/level04/level04_widget.dart' show Level04Widget;
+export '/l1_q/level06/level06_widget.dart' show Level06Widget;
+export '/l1_q/level07/level07_widget.dart' show Level07Widget;
+export '/l1_q/level08/level08_widget.dart' show Level08Widget;
+export '/l1_q/level09/level09_widget.dart' show Level09Widget;
